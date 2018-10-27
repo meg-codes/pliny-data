@@ -1,0 +1,2 @@
+./tlgu -r -v -w -X ~/Desktop/LAT1318.TXT LAT1318.unicode.txt
+(using tlgu 1.6)
