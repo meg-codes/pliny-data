@@ -23,7 +23,6 @@ def load_pliny_corpus():
     (except book 10) as a string"""
 
     files = glob.glob('letters/[1]_*.txt')
-    print(files[-1])
     total_strings = []
     for file in files:
         fp = open(file, 'r')

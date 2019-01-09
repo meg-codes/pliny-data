@@ -44,7 +44,7 @@ with open('LAT1318.unicode.txt') as pliny_file:
                 # continue to drop the letter salutations
                 continue
 
-            # if there's a book a letter, we're in the text of a letter
+            # if there's a book aand letter, we're in the text of a letter
             # and want to write the line
             # otherwise let the loop continue through
             if book and letter:
